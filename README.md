@@ -6,9 +6,7 @@ The exercise is designed for marketing research and marketing analytics courses 
 
 ## Teaching Materials
 
-- `Pricing_Analytics_Worksheet.xlsx` – Excel-based worksheet for transforming individual willingness-to-pay data into a price–demand relationship and deriving a profit-maximizing price.
-
-Additional teaching materials will be added to this repository.
+- `Pricing_Analytics_Worksheet.xlsx` – Excel-based worksheet for transforming individual willingness-to-pay data into a price–demand relationship and deriving a profit-maximizing price. The worksheet is designed for use with both empirical and AI-generated willingness-to-pay data.
 
 ## Classroom Exercise
 
