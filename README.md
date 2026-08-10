@@ -1,4 +1,30 @@
-# synthetic-respondents-pricing-classroom-exercise
-Teaching materials for a classroom exercise combining empirical willingness-to-pay data, pricing analytics, and AI-generated synthetic respondents.
-License
+# Synthetic Respondents for Pricing Decisions: Classroom Exercise
+
+This repository provides teaching materials for a classroom exercise combining empirical willingness-to-pay data, pricing analytics, and AI-generated synthetic respondents.
+
+The exercise is designed for marketing research and marketing analytics courses and can be completed in approximately 90 minutes.
+
+## Teaching Materials
+
+- `Pricing_Analytics_Worksheet.xlsx` – Excel-based worksheet for transforming individual willingness-to-pay data into a price–demand relationship and deriving a profit-maximizing price.
+
+Additional teaching materials will be added to this repository.
+
+## Classroom Exercise
+
+Students use the materials to:
+
+1. generate empirical willingness-to-pay data,
+2. analyze the empirical data using the pricing worksheet,
+3. generate synthetic respondents using a large language model,
+4. iteratively refine their prompts,
+5. compare empirical and synthetic pricing outcomes, and
+6. critically evaluate the validity of AI-generated market data.
+
+## Related Publication
+
+This repository accompanies a teaching article currently under review. Full citation information will be added upon publication.
+
+## License
+
 The teaching materials in this repository are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
