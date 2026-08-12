@@ -10,6 +10,8 @@ The exercise is designed for marketing research and marketing analytics courses 
 
 - **Vickrey Auction Explainer Video** – Short animated video introducing the logic of the sealed-bid second-price (Vickrey) auction used in the classroom exercise: https://www.youtube.com/watch?v=ZBLZAC7GPxY
 
+- **Baseline Prompt** – Prompt used to generate the initial set of synthetic respondents before students iteratively refine the prompt during the classroom exercise.
+
 ## Classroom Exercise
 
 Students use the materials to:
