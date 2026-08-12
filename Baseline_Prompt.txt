@@ -1,0 +1,16 @@
+You are simulating a small market research study.
+
+Product:
+KoRo Organic Energy Ball Raspberry–Cocoa.
+
+Target group:
+University students.
+
+Task:
+Generate 20 synthetic respondents.
+For each respondent, provide their maximum willingness to pay in euros for the product.
+
+The values should vary realistically and fall within a plausible range for a small snack.
+
+Output format:
+ID | Willingness to pay in euros
