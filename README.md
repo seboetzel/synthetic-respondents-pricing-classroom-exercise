@@ -6,11 +6,11 @@ The exercise is designed for marketing research and marketing analytics courses 
 
 ## Teaching Materials
 
-- **Pricing_Analytics_Worksheet.xlsx** – Excel-based worksheet for transforming individual willingness-to-pay data into a price–demand relationship and deriving a profit-maximizing price. The worksheet is designed for use with both empirical and AI-generated willingness-to-pay data.
+- `Pricing_Analytics_Worksheet.xlsx` – Excel-based worksheet for transforming individual willingness-to-pay data into a price–demand relationship and deriving a profit-maximizing price. The worksheet is designed for use with both empirical and AI-generated willingness-to-pay data.
+
+- `Baseline_Prompt.txt` – Baseline prompt used to generate the initial set of synthetic respondents before students iteratively refine the prompt during the classroom exercise.
 
 - **Vickrey Auction Explainer Video** – Short animated video introducing the logic of the sealed-bid second-price (Vickrey) auction used in the classroom exercise: https://www.youtube.com/watch?v=ZBLZAC7GPxY
-
-- **Baseline_Prompt.txt** – Prompt used to generate the initial set of synthetic respondents before students iteratively refine the prompt during the classroom exercise.
 
 ## Classroom Exercise
 
@@ -29,4 +29,4 @@ This repository accompanies a teaching article currently under review. Full cita
 
 ## License
 
-The teaching materials in this repository are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+The teaching materials contained in this repository are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. External resources linked from this repository are subject to their respective terms and licenses.
